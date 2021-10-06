@@ -22,7 +22,6 @@ body {
   opacity: 0.8;
 }
 
-/* Start of modifications */
 
 .btn {
   display: inline-block;
@@ -50,8 +49,6 @@ body {
   background-color: blue;
   border-bottom-right-radius: 100%;
 }
-
-/* End of modifications */
 
 .pressed {
   box-shadow: 0 0 20px white;
